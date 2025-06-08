@@ -1,4 +1,4 @@
-Hi! I am a second year PhD student at the University of Bonn working in geometric group theory. My current interests are group rings of infinite groups and groups acting on rooted trees. You can reach me at the email address clan [at] math.uni-bonn.de.
+Hi! I am a second year PhD student at the University of Bonn working in geometric group theory. My current interests are group rings of infinite groups and groups acting on rooted trees. You can contact me at clan [at] math.uni-bonn.de.
 
 
 
@@ -15,17 +15,17 @@ I have organised the following reading groups at Bonn:
 
 
 
-**Teaching**
+**Teaching**  
 I was a TA for the course Einführung in die Geometrie und Topologie in SS 24.
 
 
 
 
-**Outreach**
+**Outreach**  
 I have helped mark mathematics Olympiads for secondary school students at a national and international level. I was on the Problem Selection Committee for IMO 2024. Over the past years I have taught at the annual maths camp organised by UKMT at Trinity College, Cambridge. The teaching material I used for this is available upon request. I have also been a guest writer for [this blog](https://simoxmenblog.blogspot.com/) on Olympiad mathematics.
 
 
 
 
-**Other**
+**Other**  
 The most fun maths and art crossover I have ever seen has to be the widget on [Jonathan Fruchter's homepage](https://jonfru.github.io/).
