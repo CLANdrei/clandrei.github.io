@@ -28,4 +28,5 @@ I have helped mark mathematics Olympiads for secondary school students at a nati
 
 
 **Other**  
-The most fun maths and art crossover I have ever seen has to be the widget on [Jonathan Fruchter's homepage](https://jonfru.github.io/).
+*The most fun maths and art crossover I have ever seen has to be the widget on [Jonathan Fruchter's homepage](https://jonfru.github.io/).
+*While a student at Cambridge I helped make knotted dumplings. Photos can be found [here](https://web.math.princeton.edu/~gn4470/dumplings.html), although Gheehyun's later experiments have been much more elaborate.
