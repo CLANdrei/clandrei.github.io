@@ -11,7 +11,7 @@ Various extracurricular mathematics opportunities are available to students at t
   
 * I did a summer research project on random groups under the supervision of Calum Ashcroft. The report can be found [here](https://clandrei.github.io/Random_Groups.pdf). Note that better results [have been obtained](https://arxiv.org/abs/2505.07424).
 * [Lagrange's 4-squares theorem](https://clandrei.github.io/4-squares.pdf)
-* [Bass-Serre theory] (https://clandrei.github.io/bass-serre.pdf)
+* [Bass-Serre theory](https://clandrei.github.io/bass-serre.pdf)
 * [Combinatorial Morse Theory](https://clandrei.github.io/combinatorial-morse-theory.pdf)
 * [CAT(0) cube complexes](https://clandrei.github.io/CAT(0)-cube-complexes.pdf)
 
