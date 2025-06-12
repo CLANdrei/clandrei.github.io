@@ -6,6 +6,16 @@ Hi! My full name is Chung Lok Andrew Ng, but I usually just go by Andrew unless 
 1. [Virtual First Betti Number of GGS Groups](https://arxiv.org/abs/2505.23269).
 
 
+**Other Writing**  
+Various extracurricular mathematics opportunities are available to students at the University of Cambridge, including competitions for exposition. My entries can be found below. I apologise in advance for any errors.
+  
+* I did a summer research project on random groups under the supervision of Calum Ashcroft. The report can be found [here](https://clandrei.github.io/Random_Groups.pdf). Note that better results [have been obtained](https://arxiv.org/abs/2505.07424).
+* [Lagrange's 4-squares theorem](https://clandrei.github.io/4-squares.pdf)
+* [Bass-Serre theory] (https://clandrei.github.io/bass-serre.pdf)
+* [Combinatorial Morse Theory](https://clandrei.github.io/combinatorial-morse-theory.pdf)
+* [CAT(0) cube complexes](https://clandrei.github.io/CAT(0)-cube-complexes.pdf)
+
+
 
 **Organisation**  
 I have organised the following reading groups at Bonn:
