@@ -3,8 +3,8 @@ Hi! My full name is Chung Lok Andrew Ng, but I usually just go by Andrew unless 
 
 
 **Preprints**
-1. [Virtual First Betti Number of GGS Groups](https://arxiv.org/abs/2505.23269).
-2. [Quasi-convex surface subgroups in some one-relator groups with torsion](https://arxiv.org/abs/2510.01876).
+1. [Virtual First Betti Number of GGS Groups](https://arxiv.org/abs/2505.23269) (2025)
+2. [Quasi-convex surface subgroups in some one-relator groups with torsion](https://arxiv.org/abs/2510.01876) (2025)
 
 
 **Other Writing**  
