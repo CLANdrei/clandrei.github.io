@@ -1,4 +1,4 @@
-Hi! My full name is Chung Lok Andrew Ng, but I usually just go by Andrew unless I'm trying to avoid getting confused with an AI scientist. I am a second year PhD student at the University of Bonn working in geometric group theory. My current interests are group rings of infinite groups and groups acting on rooted trees. You can contact me at clan [at] math.uni-bonn.de.
+Hi! My full name is Chung Lok Andrew Ng, but I usually just go by Andrew unless I'm trying to avoid getting confused with an AI scientist. I am a third year PhD student at the University of Bonn working in geometric group theory. My current interests are group rings of infinite groups and groups acting on rooted trees. You can contact me at clan [at] math.uni-bonn.de.
 
 
 
