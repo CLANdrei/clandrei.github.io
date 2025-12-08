@@ -15,6 +15,7 @@ Various extracurricular mathematics opportunities are available to students at t
 * [Bass-Serre theory](https://clandrei.github.io/bass-serre.pdf)
 * [Combinatorial Morse Theory](https://clandrei.github.io/combinatorial-morse-theory.pdf)
 * [CAT(0) cube complexes](https://clandrei.github.io/CAT(0)-cube-complexes.pdf)
+* [Notes](https://clandrei.github.io/cx-hyp-lattices.pdf) on complex hyperbolic lattices for a reading group, loosely following unpublished notes of McReynolds.
 
 
 
