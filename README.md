@@ -1,11 +1,10 @@
 Hi! My full name is Chung Lok Andrew Ng, but I usually just go by Andrew unless I'm trying to avoid getting confused with an AI scientist. I am a third year PhD student at the University of Bonn working in geometric group theory. My current interests are group rings of infinite groups and groups acting on rooted trees. You can contact me at clan [at] math.uni-bonn.de.
 
 
-
 **Preprints**
-1. [Virtual First Betti Number of GGS Groups](https://arxiv.org/abs/2505.23269) (2025)
-2. [Quasi-convex surface subgroups in some one-relator groups with torsion](https://arxiv.org/abs/2510.01876) (2025)
-
+1. Virtual First Betti Number of GGS Groups (2025) [arxiv](https://arxiv.org/abs/2505.23269) 
+2. Quasi-convex surface subgroups in some one-relator groups with torsion (2025) [arxiv](https://arxiv.org/abs/2510.01876) 
+3. Cobordism, spin structures, and profinite completions (with Sam Hughes, 2026) [arxiv](https://arxiv.org/abs/2601.05706)
 
 **Other Writing**  
 Various extracurricular mathematics opportunities are available to students at the University of Cambridge, including competitions for exposition. My entries can be found below. I apologise in advance for any errors.
