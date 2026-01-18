@@ -1,10 +1,12 @@
-Hi! My full name is Chung Lok Andrew Ng, but I usually just go by Andrew unless I'm trying to avoid getting confused with an AI scientist. I am a third year PhD student at the University of Bonn working in geometric group theory. My current interests are group rings of infinite groups and groups acting on rooted trees. You can contact me at clan [at] math.uni-bonn.de
+Hi! My full name is Chung Lok Andrew Ng, but I usually just go by Andrew unless I'm trying to avoid getting confused with an AI scientist. I am a third year PhD student at the University of Bonn working in geometric group theory. My current interests are group rings of infinite groups and groups acting on rooted trees. You can contact me at clan [at] math.uni-bonn.de.
 
 
 **Preprints**
-1. Virtual First Betti Number of GGS Groups (2025) [arxiv](https://arxiv.org/abs/2505.23269) 
-2. Quasi-convex surface subgroups in some one-relator groups with torsion (2025) [arxiv](https://arxiv.org/abs/2510.01876) 
-3. Cobordism, spin structures, and profinite completions (with Sam Hughes, 2026) [arxiv](https://arxiv.org/abs/2601.05706)
+
+1. Cobordism, spin structures, and profinite completions (with Sam Hughes, 2026) [arxiv](https://arxiv.org/abs/2601.05706)
+2. Quasi-convex surface subgroups in some one-relator groups with torsion (2025) [arxiv](https://arxiv.org/abs/2510.01876)
+3. Virtual First Betti Number of GGS Groups (2025) [arxiv](https://arxiv.org/abs/2505.23269) 
+
 
 **Other Writing**  
 Various extracurricular mathematics opportunities are available to students at the University of Cambridge, including competitions for exposition. My entries can be found below. I apologise in advance for any errors.
@@ -22,7 +24,7 @@ Various extracurricular mathematics opportunities are available to students at t
 I have organised the following reading groups at Bonn:
 1. Bounded cohomology SS (Sommersemester) 24.
 2. Buildings WS (Wintersemester) 24/25.
-3. JSJ decompositions SS 25. The notes for this are available on [this blog](https://proofsfromtheblog.blogspot.com/2025/05/jsj-i-history-and-motivation.html).
+3. JSJ decompositions SS 25. The notes for this are available on [this blog](https://proofsfromtheblog.blogspot.com/).
 
 
 
