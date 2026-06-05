@@ -3,9 +3,10 @@ Hi! My full name is Chung Lok Andrew Ng, but I usually just go by Andrew unless 
 
 **Preprints**
 
-1. Cobordism, spin structures, and profinite completions (with Sam Hughes, 2026) [arxiv](https://arxiv.org/abs/2601.05706)
-2. Quasi-convex surface subgroups in some one-relator groups with torsion (2025) [arxiv](https://arxiv.org/abs/2510.01876)
-3. Virtual First Betti Number of GGS Groups (Journal of Algebra, 2026) [arxiv](https://arxiv.org/abs/2505.23269) [journal](https://www.sciencedirect.com/science/article/pii/S0021869326000086?via%3Dihub)
+1. Improved algebraic fibrations of high-dimensional hyperbolic groups (with Giovanni Italiano and Matteo Migliorini, 2026) [arxiv](https://arxiv.org/abs/2606.05091)
+2. Cobordism, spin structures, and profinite completions (with Sam Hughes, 2026) [arxiv](https://arxiv.org/abs/2601.05706)
+3. Quasi-convex surface subgroups in some one-relator groups with torsion (2025, accepted at Bulletin of the LMS) [arxiv](https://arxiv.org/abs/2510.01876)
+4. Virtual First Betti Number of GGS Groups (Journal of Algebra, 2026) [arxiv](https://arxiv.org/abs/2505.23269) [journal](https://www.sciencedirect.com/science/article/pii/S0021869326000086?via%3Dihub)
 
 
 **Other Writing**  
