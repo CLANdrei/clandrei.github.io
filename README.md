@@ -1,12 +1,13 @@
 Hi! My full name is Chung Lok Andrew Ng, but I usually just go by Andrew unless I'm trying to avoid getting confused with an AI scientist. I am a third year PhD student at the University of Bonn working in geometric group theory. My current interests are group rings of infinite groups and groups acting on rooted trees. You can contact me at clan [at] math.uni-bonn.de.
 
 
-**Preprints**
+**Preprints/Publications**
 
-1. Improved algebraic fibrations of high-dimensional hyperbolic groups (with Giovanni Italiano and Matteo Migliorini, 2026) [arxiv](https://arxiv.org/abs/2606.05091)
-2. Cobordism, spin structures, and profinite completions (with Sam Hughes, 2026) [arxiv](https://arxiv.org/abs/2601.05706)
-3. Quasi-convex surface subgroups in some one-relator groups with torsion (2025, accepted at Bulletin of the LMS) [arxiv](https://arxiv.org/abs/2510.01876)
-4. Virtual First Betti Number of GGS Groups (Journal of Algebra, 2026) [arxiv](https://arxiv.org/abs/2505.23269) [journal](https://www.sciencedirect.com/science/article/pii/S0021869326000086?via%3Dihub)
+1. Outer automorphism groups and the Atiyah Conjecture (with Sam P. Fisher, 2026) [arxiv](https://arxiv.org/abs/2606.19606)
+2. Improved algebraic fibrations of high-dimensional hyperbolic groups (with Giovanni Italiano and Matteo Migliorini, 2026) [arxiv](https://arxiv.org/abs/2606.05091)
+3. Cobordism, spin structures, and profinite completions (with Sam Hughes, 2026) [arxiv](https://arxiv.org/abs/2601.05706)
+4. Quasi-convex surface subgroups in some one-relator groups with torsion (2025, accepted at Bulletin of the LMS) [arxiv](https://arxiv.org/abs/2510.01876)
+5. Virtual First Betti Number of GGS Groups (Journal of Algebra, 2026) [arxiv](https://arxiv.org/abs/2505.23269) [journal](https://www.sciencedirect.com/science/article/pii/S0021869326000086?via%3Dihub)
 
 
 **Other Writing**  
@@ -23,9 +24,11 @@ Various extracurricular mathematics opportunities are available to students at t
 
 **Organisation**  
 I have organised the following reading groups at Bonn:
-1. Bounded cohomology SS (Sommersemester) 24.
-2. Buildings WS (Wintersemester) 24/25.
-3. JSJ decompositions SS 25. The notes for this are available on [this blog](https://proofsfromtheblog.blogspot.com/).
+1. Open Problems Seminar 2024.
+2. Bounded cohomology SS (Sommersemester) 24.
+3. Buildings WS (Wintersemester) 24/25.
+4. JSJ decompositions SS 25. The notes for this are available on [this blog](https://proofsfromtheblog.blogspot.com/).
+5. General Knowledge Club SS 26.
 
 
 
