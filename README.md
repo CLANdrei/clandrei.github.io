@@ -6,7 +6,7 @@ Hi! My full name is Chung Lok Andrew Ng, but I usually just go by Andrew unless 
 1. Outer automorphism groups and the Atiyah Conjecture (with Sam P. Fisher, 2026) [arxiv](https://arxiv.org/abs/2606.19606)
 2. Improved algebraic fibrations of high-dimensional hyperbolic groups (with Giovanni Italiano and Matteo Migliorini, 2026) [arxiv](https://arxiv.org/abs/2606.05091)
 3. Cobordism, spin structures, and profinite completions (with Sam Hughes, 2026) [arxiv](https://arxiv.org/abs/2601.05706)
-4. Quasi-convex surface subgroups in some one-relator groups with torsion (BLMS, 2026) [arxiv](https://arxiv.org/abs/2510.01876)[journal](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/blms.70429)
+4. Quasi-convex surface subgroups in some one-relator groups with torsion (BLMS, 2026) [arxiv](https://arxiv.org/abs/2510.01876) [journal](https://londmathsoc.onlinelibrary.wiley.com/doi/10.1112/blms.70429)
 5. Virtual First Betti Number of GGS Groups (Journal of Algebra, 2026) [arxiv](https://arxiv.org/abs/2505.23269) [journal](https://www.sciencedirect.com/science/article/pii/S0021869326000086?via%3Dihub)
 
 
