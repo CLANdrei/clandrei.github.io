@@ -1,4 +1,4 @@
-Hi! My full name is Chung Lok Andrew Ng, but I usually just go by Andrew unless I'm trying to avoid getting confused with an AI scientist. I am a third year PhD student at the University of Bonn working in geometric group theory. My current interests are group rings of infinite groups and groups acting on rooted trees. You can contact me at clan [at] math.uni-bonn.de.
+Hi! My full name is Chung Lok Andrew Ng, but I usually just go by Andrew unless I'm trying to avoid getting confused with an AI scientist. I am a final year PhD student at the University of Bonn. My research interests are best described as an open neighbourhood of geometric group theory. You can contact me at clan [at] math.uni-bonn.de.
 
 
 **Preprints/Publications**
@@ -11,7 +11,7 @@ Hi! My full name is Chung Lok Andrew Ng, but I usually just go by Andrew unless 
 
 
 **Other Writing**  
-Various extracurricular mathematics opportunities are available to students at the University of Cambridge, including competitions for exposition. My entries can be found below. I apologise in advance for any errors.
+I believe that exposition is a central part of a mathematician's work, so I have written up some notes on various topics which I found interesting and hope that they might be of use to people who come across these. I apologise in advance for any errors.
   
 * I did a summer research project on random groups under the supervision of Calum Ashcroft. The report can be found [here](https://clandrei.github.io/Random_Groups.pdf). Note that better results [have been obtained](https://arxiv.org/abs/2505.07424).
 * [Lagrange's 4-squares theorem](https://clandrei.github.io/4-squares.pdf)
@@ -23,6 +23,10 @@ Various extracurricular mathematics opportunities are available to students at t
 
 
 **Organisation**  
+I am co-organising the Geometrische Gruppentheorie Oberseminar at Bonn with Lawk Mineh in WS 2026. The seminar website is [here](https://lawk-mineh.github.io/seminar/).
+
+I am one of the local organisers for the conference Interactions between algebraic geometry and geometric group theory. The conference website is [here](https://math-events.uni-bonn.de/event/1491/overview).
+
 I have organised the following reading groups at Bonn:
 1. Open Problems Seminar 2024.
 2. Bounded cohomology SS (Sommersemester) 24.
